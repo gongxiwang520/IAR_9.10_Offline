@@ -1,0 +1,7 @@
+1、分别在安装目录：
+*\IAR Systems\Embedded Workbench 9.0\arm\bin\
+*\IAR Systems\Embedded Workbench 9.0\arm\bin\jet\bin\
+*\IAR Systems\Embedded Workbench 9.0\common\bin\
+下运行一次 licpatcher64.exe(复制到对应文件夹下运行)；
+
+2、使用IARkg14_Unis版本注册机进行破解即可，破解流程和旧版IAR破解流程一样；

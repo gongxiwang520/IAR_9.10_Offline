@@ -1,0 +1,12 @@
+Версия EWARM-910.1-license лечится нестандартно:
+
+1. Сначала накладывается патч licpatcher64a.rar
+run licpatcher64.exe from directories:
+C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\bin\
+C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\bin\jet\bin\
+C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\
+
+2. Затем применяется генератор лицензий V1.4
+/pub/CRACKS/IAR/keygen (for license)/IARkg14_Unis.rar
+
+
